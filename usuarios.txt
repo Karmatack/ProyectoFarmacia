@@ -1,0 +1,4 @@
+1,Administrador,Jose,15963
+2,Administrador,Kennedy,123456
+3,Administrador,Angel,123456789
+4,Operador,jesus,321
